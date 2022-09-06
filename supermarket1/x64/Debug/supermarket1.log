@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\solve problem\supermarket1\supermarket1\main.cpp(106,6): warning C4101: 'products_bag': unreferenced local variable
+F:\solve problem\supermarket1\supermarket1\main.cpp(107,6): warning C4101: 'num_products': unreferenced local variable
+  supermarket1.vcxproj -> F:\solve problem\supermarket1\x64\Debug\supermarket1.exe
